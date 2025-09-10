@@ -100,11 +100,14 @@ Now visit: **http://127.0.0.1:8000**
 
 > Replace below with your actual images (store in `/screenshots` folder).  
 
-### 🔑 Login Page  
-![Login](screenshots/login.png)  
+### 🔑 User Login Page  
+![User Login](screenshots/User_login.png)  
 
 ### 📊 User Dashboard  
 ![User Dashboard](screenshots/user_dashboard.png)  
+
+### 🛠️ Admin Login  
+![Admin Login](screenshots/admin_login.png)  
 
 ### 🛠️ Admin Dashboard  
 ![Admin Dashboard](screenshots/admin_dashboard.png)  
@@ -118,4 +121,4 @@ This project is released under the [MIT License](LICENSE).
 
 ## 💡 Author
 👨‍💻 Developed by **Danish**  
-📧 Contact: Danishcoding.19@gmail.com  
+📧 Contact: [Your Email Here]  
